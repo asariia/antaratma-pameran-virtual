@@ -1,7 +1,3 @@
-Berikut adalah contoh kata-kata untuk GitHub README website *Antaratma*, termasuk detail penggunaan 3DVista dan fitur pemesanan tiket pameran offline:
-
----
-
 # Antaratma - Virtual 360 Exhibition
 
 **Antaratma** is a virtual 360 exhibition based in Jakarta, blending technology and art to create an immersive experience. Explore various exhibitions, both traditional and modern, through a 360° virtual tour powered by **3DVista**. In addition, visitors can also book tickets for upcoming offline exhibitions directly through the platform.
