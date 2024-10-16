@@ -24,7 +24,7 @@
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/antaratma-virtual-exhibition.git
+   git clone https://github.com/asariia/antaratma-pameran-virtual.git
    ```
 2. Install dependencies:
    ```bash
